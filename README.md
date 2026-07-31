@@ -1,19 +1,17 @@
-# Hi 👋, I'm Sarika HN
+ Hi 👋, I'm Sarika HN
 
-💻 Final-year Computer Science Student | 🚀 Aspiring Full Stack Developer | 🔬 Exploring AI-powered solutions  
+💻 Recent graduate Computer Science Student | 🚀 Aspiring Full Stack Developer | 🔬 Exploring AI-powered solutions  
 
 ---
-
-## 🌟 About Me
-- 🎓 Pursuing B.E. in Computer Science (CMRIT, Bangalore)  
-- 💡 Passionate about building scalable **Full Stack & AI-driven applications**  
-- 📚 Currently working on: **TaskFlow AI, AI Career Forge, RecruitX**  
-- 🌱 Learning advanced **MERN, TypeScript, and AI integrations**  
+About Me
+- 🎓 Recent graduate B.E. in Computer Science (CMRIT, Bangalore)  
+- 💡 Passionate about building scalable Full Stack & AI-driven applications 
+- 🌱 Learning advanced MERN, TypeScript, and AI integrations
 - 💼 Looking for Full Stack Developer roles (6+ LPA)  
 
 ---
 
-## 🛠️ Tech Stack
+Tech Stack
 **Frontend:** React, TypeScript, Tailwind CSS, Redux Toolkit  
 **Backend:** Node.js, Express.js, Firebase, Flask  
 **Databases:** MongoDB, MySQL, Firestore  
@@ -22,7 +20,7 @@
 
 ---
 
-## 🚀 Projects
+Projects
 - **[TaskFlow AI](#)** – AI-powered productivity tool for workflow automation  
 - **[AI Career Forge](#)** – AI-powered career assistant generating resumes & cover letters  
 - **[RecruitX](#)** – Intelligent recruitment platform with AI-based candidate matching  
@@ -30,7 +28,9 @@
 
 ---
 
-## 📜 Certifications
+📜 Certifications
+- Innovating with Google Cloud AI - Google cloud
+- Getting Started with AWS Services Fundamentals for Beginners - Simple Learn
 - Full Stack Web Development – Udemy  
 - Machine Learning for Healthcare – MIT (Coursera)  
 - EF SET English Certificate – C1 Advanced  
